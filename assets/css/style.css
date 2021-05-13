@@ -1,0 +1,55 @@
+.viajes-chile-header img {
+    width: 35px;
+    height: 35px;
+}
+
+
+body {
+    background-color: #000000;
+    font-family: 'Open Sans';
+    color: #ffffff;
+
+}
+
+.line-blue {
+    border-top: 1px solid #2596be;
+}
+
+.card-destacados {
+    background-color: #000000;
+
+}
+
+.card-body {
+    background-color: #2596be;
+}
+
+.footer-bg {
+    background-color: #2596be;
+    text-align: center;
+}
+
+.icons-footer a {
+    font-size: 25px;
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.carousel-inner{
+    height: 550px;
+}
+.carousel-inner .carousel-item img {
+    width: 100% ;
+    height: 550px ;
+    }
+    
+
+.navbar {
+    background-color: transparent ;
+    -webkit-transition: all .5s;
+    transition: all .5s;
+  }
+  
+  .navbar.alt-color {
+    background-color: #2596be;
+  }
